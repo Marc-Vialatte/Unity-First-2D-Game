@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: 3d1700d4f8e1f48fb850025d5d955ae9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Paddo_attack_0
+  - first:
+      213: 21300002
+    second: Paddo_attack_1
+  - first:
+      213: 21300004
+    second: Paddo_attack_2
+  - first:
+      213: 21300006
+    second: Paddo_attack_3
+  - first:
+      213: 21300008
+    second: Paddo_attack_4
+  - first:
+      213: 21300010
+    second: Paddo_attack_5
+  - first:
+      213: 21300012
+    second: Paddo_attack_6
+  - first:
+      213: 21300014
+    second: Paddo_attack_7
+  - first:
+      213: 21300016
+    second: Paddo_attack_8
+  - first:
+      213: 21300018
+    second: Paddo_attack_9
+  - first:
+      213: 21300020
+    second: Paddo_attack_10
+  - first:
+      213: 21300022
+    second: Paddo_attack_11
+  - first:
+      213: 21300024
+    second: Paddo_attack_12
+  - first:
+      213: 21300026
+    second: Paddo_attack_13
+  - first:
+      213: 21300028
+    second: Paddo_attack_14
+  - first:
+      213: 21300030
+    second: Paddo_attack_15
+  - first:
+      213: 21300032
+    second: Paddo_attack_16
+  - first:
+      213: 21300034
+    second: Paddo_attack_17
+  - first:
+      213: 21300036
+    second: Paddo_attack_18
+  - first:
+      213: 21300038
+    second: Paddo_attack_19
+  - first:
+      213: 21300040
+    second: Paddo_attack_20
+  - first:
+      213: 21300042
+    second: Paddo_attack_21
+  - first:
+      213: 21300044
+    second: Paddo_attack_22
+  - first:
+      213: 21300046
+    second: Paddo_attack_23
+  - first:
+      213: 21300048
+    second: Paddo_attack_24
+  - first:
+      213: 21300050
+    second: Paddo_attack_25
+  - first:
+      213: 21300052
+    second: Paddo_attack_26
+  - first:
+      213: 21300054
+    second: Paddo_attack_27
+  - first:
+      213: 21300056
+    second: Paddo_attack_28
+  - first:
+      213: 21300058
+    second: Paddo_attack_29
+  - first:
+      213: 21300060
+    second: Paddo_attack_30
+  - first:
+      213: 21300062
+    second: Paddo_attack_31
+  - first:
+      213: 21300064
+    second: Paddo_attack_32
+  - first:
+      213: 21300066
+    second: Paddo_attack_33
+  - first:
+      213: 21300068
+    second: Paddo_attack_34
+  - first:
+      213: 21300070
+    second: Paddo_attack_35
+  - first:
+      213: 21300072
+    second: Paddo_attack_36
+  - first:
+      213: 21300074
+    second: Paddo_attack_37
+  - first:
+      213: 21300076
+    second: Paddo_attack_38
+  - first:
+      213: 21300078
+    second: Paddo_attack_39
+  - first:
+      213: 21300080
+    second: Paddo_attack_40
+  - first:
+      213: 21300082
+    second: Paddo_attack_41
+  - first:
+      213: 21300084
+    second: Paddo_attack_42
+  - first:
+      213: 21300086
+    second: Paddo_attack_43
+  - first:
+      213: 21300088
+    second: Paddo_attack_44
+  - first:
+      213: 21300090
+    second: Paddo_attack_45
+  - first:
+      213: 21300092
+    second: Paddo_attack_46
+  - first:
+      213: 21300094
+    second: Paddo_attack_47
+  - first:
+      213: 21300096
+    second: Paddo_attack_48
+  - first:
+      213: 21300098
+    second: Paddo_attack_49
+  - first:
+      213: 21300100
+    second: Paddo_attack_50
+  - first:
+      213: 21300102
+    second: Paddo_attack_51
+  - first:
+      213: 21300104
+    second: Paddo_attack_52
+  - first:
+      213: 21300106
+    second: Paddo_attack_53
+  - first:
+      213: 21300108
+    second: Paddo_attack_54
+  - first:
+      213: 21300110
+    second: Paddo_attack_55
+  - first:
+      213: 21300112
+    second: Paddo_attack_56
+  - first:
+      213: 21300114
+    second: Paddo_attack_57
+  - first:
+      213: 21300116
+    second: Paddo_attack_58
+  - first:
+      213: 21300118
+    second: Paddo_attack_59
+  - first:
+      213: 21300120
+    second: Paddo_attack_60
+  - first:
+      213: 21300122
+    second: Paddo_attack_61
+  - first:
+      213: 21300124
+    second: Paddo_attack_62
+  - first:
+      213: 21300126
+    second: Paddo_attack_63
+  - first:
+      213: 21300128
+    second: Paddo_attack_64
+  - first:
+      213: 21300130
+    second: Paddo_attack_65
+  - first:
+      213: 21300132
+    second: Paddo_attack_66
+  - first:
+      213: 21300134
+    second: Paddo_attack_67
+  - first:
+      213: 21300136
+    second: Paddo_attack_68
+  - first:
+      213: 21300138
+    second: Paddo_attack_69
+  - first:
+      213: 21300140
+    second: Paddo_attack_70
+  - first:
+      213: 21300142
+    second: Paddo_attack_71
+  - first:
+      213: 21300144
+    second: Paddo_attack_72
+  - first:
+      213: 21300146
+    second: Paddo_attack_73
+  - first:
+      213: 21300148
+    second: Paddo_attack_74
+  - first:
+      213: 21300150
+    second: Paddo_attack_75
+  - first:
+      213: 21300152
+    second: Paddo_attack_76
+  - first:
+      213: 21300154
+    second: Paddo_attack_77
+  - first:
+      213: 21300156
+    second: Paddo_attack_78
+  - first:
+      213: 21300158
+    second: Paddo_attack_79
+  - first:
+      213: 21300160
+    second: Paddo_attack_80
+  - first:
+      213: 21300162
+    second: Paddo_attack_81
+  - first:
+      213: 21300164
+    second: Paddo_attack_82
+  - first:
+      213: 21300166
+    second: Paddo_attack_83
+  - first:
+      213: 21300168
+    second: Paddo_attack_84
+  - first:
+      213: 21300170
+    second: Paddo_attack_85
+  - first:
+      213: 21300172
+    second: Paddo_attack_86
+  - first:
+      213: 21300174
+    second: Paddo_attack_87
+  - first:
+      213: 21300176
+    second: Paddo_attack_88
+  - first:
+      213: 21300178
+    second: Paddo_attack_89
+  - first:
+      213: 21300180
+    second: Paddo_attack_90
+  - first:
+      213: 21300182
+    second: Paddo_attack_91
+  - first:
+      213: 21300184
+    second: Paddo_attack_92
+  - first:
+      213: 21300186
+    second: Paddo_attack_93
+  - first:
+      213: 21300188
+    second: Paddo_attack_94
+  - first:
+      213: 21300190
+    second: Paddo_attack_95
+  - first:
+      213: 21300192
+    second: Paddo_attack_96
+  - first:
+      213: 21300194
+    second: Paddo_attack_97
+  - first:
+      213: 21300196
+    second: Paddo_attack_98
+  - first:
+      213: 21300198
+    second: Paddo_attack_99
+  - first:
+      213: 21300200
+    second: Paddo_attack_100
+  - first:
+      213: 21300202
+    second: Paddo_attack_101
+  - first:
+      213: 21300204
+    second: Paddo_attack_102
+  - first:
+      213: 21300206
+    second: Paddo_attack_103
+  - first:
+      213: 21300208
+    second: Paddo_attack_104
+  - first:
+      213: 21300210
+    second: Paddo_attack_105
+  - first:
+      213: 21300212
+    second: Paddo_attack_106
+  - first:
+      213: 21300214
+    second: Paddo_attack_107
+  - first:
+      213: 21300216
+    second: Paddo_attack_108
+  - first:
+      213: 21300218
+    second: Paddo_attack_109
+  - first:
+      213: 21300220
+    second: Paddo_attack_110
+  - first:
+      213: 21300222
+    second: Paddo_attack_111
+  - first:
+      213: 21300224
+    second: Paddo_attack_112
+  - first:
+      213: 21300226
+    second: Paddo_attack_113
+  - first:
+      213: 21300228
+    second: Paddo_attack_114
+  - first:
+      213: 21300230
+    second: Paddo_attack_115
+  - first:
+      213: 21300232
+    second: Paddo_attack_116
+  - first:
+      213: 21300234
+    second: Paddo_attack_117
+  - first:
+      213: 21300236
+    second: Paddo_attack_118
+  - first:
+      213: 21300238
+    second: Paddo_attack_119
+  - first:
+      213: 21300240
+    second: Paddo_attack_120
+  - first:
+      213: 21300242
+    second: Paddo_attack_121
+  - first:
+      213: 21300244
+    second: Paddo_attack_122
+  - first:
+      213: 21300246
+    second: Paddo_attack_123
+  - first:
+      213: 21300248
+    second: Paddo_attack_124
+  - first:
+      213: 21300250
+    second: Paddo_attack_125
+  - first:
+      213: 21300252
+    second: Paddo_attack_126
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paddo_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308ba1d89783c45e69428ed1c902786c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9790cf30224c738a0b81dbaf0c906
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d2d1c4e1fb4eae882dda04b04b4e6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3818d8d7ed34a97824268f8d283c0c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0509c8aaaebff498aa96031359129f59
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b86f2b45c7494a609edf0066b661178
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be6a457fa0314fe8b0ade899478fbdb
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f687068bdeca4e5b9f0c653f1828855
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c47966da3b134c6bbf044832238dc44
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b541ab36bdc40c4a685f3420e74048
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af437e8c3e4f47e29bf6114bbd31647
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e40f919d9e248a7a7befb5595c6668
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0fd073319fd4af09f50ea2456de68d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101e083facbe456294cc4d4c756a16c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb7129486d7c4416bd2d239855e0f82
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16e6da20e5eb49b682e637e73282248
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cff26695aae4afd8596d5e8c7940d9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d45dcad0b34a6bb2681e65960d4d4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92805c03124cc4235bdaa17ea6d38bae
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3543bab4e54356b2cdee3067c35cb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1cc8d32ff3402080d03d03dbf8275
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbea89dfed20a419cbdd47f47ddca1bd
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b0eccd571348a19aa3759b36aa2d0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99029eaab7f140289065a6132db48f8
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c15acffa6e5547e78d06d6cc5511b7f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e6ffd3d7384955a7cf1dee8ddcf02
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111f90dfb1aa40d492544bd984592a5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dbd4380b6d94508948cbcda7ca85f2
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3f78e3ed4d14018ac18edf8ed51319
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3999ee19f47ef47b8871fe833fc62083
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18bffa31d1564762b8087834dcf5d21
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28da1d80bcd104f43940b7e6ec817b37
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95801ebb8496443398c9f81e075a7d1e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paddo_attack_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b6ea87fda84c4cab61bd2e1db8989
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 93a6555d56735417ebf9ba0291f2be7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

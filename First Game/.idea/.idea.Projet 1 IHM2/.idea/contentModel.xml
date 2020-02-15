@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AutoDestroy.cs" t="Include" />
+          <e p="Ennemy" t="Include">
+            <e p="EnnemyAttack.cs" t="Include" />
+            <e p="EnnemyAttackTrigger.cs" t="Include" />
+            <e p="EnnemyController.cs" t="Include" />
+            <e p="EnnemyHearth.cs" t="Include" />
+          </e>
+          <e p="GameController" t="Include">
+            <e p="CameraFollows.cs" t="Include" />
+            <e p="EndController.cs" t="Include" />
+            <e p="GameCleanerController.cs" t="Include" />
+            <e p="ObjectController.cs" t="Include" />
+          </e>
+          <e p="Pickables" t="Include">
+            <e p="CoinCointroller.cs" t="Include" />
+            <e p="PotionController.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerAttack.cs" t="Include" />
+            <e p="PlayerAttackTrigger.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerHearth.cs" t="Include" />
+            <e p="PlayerInventory.cs" t="Include" />
+          </e>
+          <e p="Traps" t="Include">
+            <e p="FireBallController.cs" t="Include" />
+            <e p="TrapsController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Gothicvania Cemetery Artwork" t="Include">
+            <e p="about.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Projet 1 IHM2.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Projet 1 IHM2.-2090117924.00" t="ExcludeRecursive" />
+  </component>
+</project>
